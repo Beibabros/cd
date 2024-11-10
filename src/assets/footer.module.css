@@ -1,0 +1,14 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    width: 1340px;
+    margin-left: 100px;
+}
+.footer_text {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+}
+.footer_p {
+    font-weight: 300;
+}

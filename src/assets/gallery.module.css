@@ -1,0 +1,17 @@
+
+ .gallery {
+     margin-top: 200px;
+     width: 1440px;
+     margin-right: 100px;
+     margin-left: 100px;
+     display: grid;
+   grid-template-columns: repeat(2, 650px);
+   gap: 30px;
+ 
+   justify-content: stretch;
+ }
+
+ .ex_2 {
+    width: 650px;
+    height: 400px;
+}

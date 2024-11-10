@@ -1,0 +1,19 @@
+.gen {
+    height: 50px;
+     width: 900px;
+     margin-right: 50px;
+     margin-left: 100px;
+     margin-top: 150px;
+     margin-bottom: 100px;
+ }
+ .gen_p {
+     font-size: 1.3rem;
+     color: #CD662C;
+     margin-bottom: -70px;
+    
+ }
+ .gen_bigtext {
+     font-size: 3rem;
+     color: #072047;
+ 
+ }

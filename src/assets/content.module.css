@@ -1,0 +1,41 @@
+.content_ex {
+    display:flex;
+    align-items: center;
+    font-size: 1.7rem;
+   font-weight: 900;
+   
+
+}
+.content_exall{
+    display: flex;
+    justify-content: space-between;
+    width: 1340px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1340px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.ex_1 {
+    width: 35px;
+    height: 35px;
+    margin-right: 7px;
+}
+.ex_3 {
+    width: 35px;
+    height: 35px;
+    margin-right: -4px;
+}
+
+.content_p {
+    font-size: 1.4rem;
+}
+.ex_2 {
+    width: 650px;
+    height: 400px;
+}
